@@ -1,0 +1,21 @@
+Wilayah,Jumlah Penderita,Umur,Gender,Ventilasi dan Sinar Matahari
+A,3,21-50,L,Kurang
+B,1,<=20,P,Sedang
+C,1,>50,P,Cukup
+D,2,<=20,L,Kurang
+E,1,21-50,L,Sedang
+F,1,>50,P,Kurang
+G,2,<=20,P,Kurang
+H,1,21-50,L,Sedang
+I,1,>50,L,Sedang
+J,2,>50,P,Kurang
+K,3,21-50,P,Kurang
+L,1,21-50,L,Sedang
+M,2,<=20,P,Kurang
+N,1,>50,P,Cukup
+O,2,21-50,L,Sedang
+P,1,>50,P,Cukup
+Q,1,<=20,L,Sedang
+R,1,21-50,P,Sedang
+S,1,>50,L,Cukup
+T,3,<=20,L,Kurang
