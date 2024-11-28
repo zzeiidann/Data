@@ -18,4 +18,4 @@ P,1,>50,P,Cukup
 Q,1,<=20,L,Sedang
 R,1,21-50,P,Sedang
 S,1,>50,L,Cukup
-T,3,<=20,L,Kurang
+T,3,<=20,P,Kurang
